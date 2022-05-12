@@ -2,7 +2,7 @@
 
 package grulev3 // grulev3
 
-import "github.com/antlr/antlr4/runtime/Go/antlr"
+import "github.com/kitabisa/antlr4/runtime/Go/antlr"
 
 // grulev3Listener is a complete listener for a parse tree produced by grulev3Parser.
 type grulev3Listener interface {

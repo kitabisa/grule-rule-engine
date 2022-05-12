@@ -21,7 +21,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"time"
 
-	"github.com/antlr/antlr4/runtime/Go/antlr"
+	"github.com/kitabisa/antlr4/runtime/Go/antlr"
 	antlr2 "github.com/hyperjumptech/grule-rule-engine/antlr"
 	parser "github.com/hyperjumptech/grule-rule-engine/antlr/parser/grulev3"
 	"github.com/hyperjumptech/grule-rule-engine/pkg"
