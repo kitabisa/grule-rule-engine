@@ -24,10 +24,8 @@ github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99/go.mod h1:1lJo3i
 github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
 github.com/kevinburke/ssh_config v0.0.0-20190725054713-01f96b0aa0cd h1:Coekwdh0v2wtGp9Gmz1Ze3eVRAWJMLokvN3QjdzCHLY=
 github.com/kevinburke/ssh_config v0.0.0-20190725054713-01f96b0aa0cd/go.mod h1:CT57kijsi8u/K/BOFA39wgDQJ9CxiF4nAY/ojJ6r6mM=
-github.com/kitabisa/antlr4 v4.10.1+incompatible h1:jDVXJvv0RPzGIz6Z/yvHSjwW4PYWf4U0+42LGyHS+Ro=
-github.com/kitabisa/antlr4 v4.10.1+incompatible/go.mod h1:sMYzbsoDfp723aumiGVU5KilaQWy5x6FkWxVzMIMzcc=
-github.com/kitabisa/antlr4/runtime/Go/antlr v0.0.0-20210928164016-886d244c73ef h1:Jdg59HqDJwmg4WbMcSYdOb0FFFJMGt91nhmmfHkojwc=
-github.com/kitabisa/antlr4/runtime/Go/antlr v0.0.0-20210928164016-886d244c73ef/go.mod h1:F7bn7fEU90QkQ3tnmaTx3LTKLEDqnwWODIYppRQ5hnY=
+github.com/kitabisa/antlr4/runtime/Go/antlr v0.0.0-20220512040246-954b13c2079d h1:v5QpfQ7hBb3+3CHZE6fKLKxI4a+Lfwrz2LX7lcZYn3Q=
+github.com/kitabisa/antlr4/runtime/Go/antlr v0.0.0-20220512040246-954b13c2079d/go.mod h1:F7bn7fEU90QkQ3tnmaTx3LTKLEDqnwWODIYppRQ5hnY=
 github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=

@@ -6,7 +6,6 @@ require (
 	github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20210928164016-886d244c73ef
 	github.com/bmatcuk/doublestar v1.3.2
 	github.com/google/uuid v1.1.1
-	github.com/kitabisa/antlr4 v4.10.1+incompatible // indirect
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.6.1
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550 // indirect
@@ -16,4 +15,4 @@ require (
 	gopkg.in/src-d/go-git.v4 v4.13.1
 )
 
-replace github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20210928164016-886d244c73ef => github.com/kitabisa/antlr4/runtime/Go/antlr v0.0.0-20210928164016-886d244c73ef
+replace github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20210928164016-886d244c73ef => github.com/kitabisa/antlr4/runtime/Go/antlr v0.0.0-20220512040246-954b13c2079d
