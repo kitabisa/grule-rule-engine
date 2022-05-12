@@ -13,3 +13,5 @@ require (
 	gopkg.in/src-d/go-billy.v4 v4.3.2
 	gopkg.in/src-d/go-git.v4 v4.13.1
 )
+
+replace github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20210928164016-886d244c73ef => github.com/kitabisa/antlr4/runtime/Go/antlr v0.0.0-20210928164016-886d244c73ef
