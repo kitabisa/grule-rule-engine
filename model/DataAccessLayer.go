@@ -19,7 +19,7 @@ import (
 	"reflect"
 	"regexp"
 	"strings"
-	"github.com/hyperjumptech/grule-rule-engine/pkg"
+	"github.com/kitabisa/grule-rule-engine/pkg"
 )
 
 // ValueNode is an abstraction layer to access underlying dom style data.

@@ -1,9 +1,9 @@
 
-[![Gopheer Holds The Rule](https://github.com/hyperjumptech/grule-rule-engine/blob/master/gopher-grule.png?raw=true)](https://github.com/hyperjumptech/grule-rule-engine/blob/master/gopher-grule.png?raw=true)
+[![Gopheer Holds The Rule](https://github.com/kitabisa/grule-rule-engine/blob/master/gopher-grule.png?raw=true)](https://github.com/kitabisa/grule-rule-engine/blob/master/gopher-grule.png?raw=true)
 
 [![Build Status](https://travis-ci.org/hyperjumptech/grule-rule-engine.svg?branch=master)](https://travis-ci.org/hyperjumptech/grule-rule-engine)
 [![Build Status](https://circleci.com/gh/hyperjumptech/grule-rule-engine.svg?style=svg)](https://circleci.com/gh/hyperjumptech/grule-rule-engine)
-[![Go Report Card](https://goreportcard.com/badge/github.com/hyperjumptech/grule-rule-engine)](https://goreportcard.com/report/github.com/hyperjumptech/grule-rule-engine)
+[![Go Report Card](https://goreportcard.com/badge/github.com/kitabisa/grule-rule-engine)](https://goreportcard.com/report/github.com/kitabisa/grule-rule-engine)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 __"Gopher Holds The Rules"__
@@ -11,7 +11,7 @@ __"Gopher Holds The Rules"__
 # Grule-Rule-Engine
 
 ```go
-import "github.com/hyperjumptech/grule-rule-engine"
+import "github.com/kitabisa/grule-rule-engine"
 ```
 
 ## Rule Engine for Go

@@ -20,10 +20,10 @@ import (
 	"strings"
 
 	"github.com/kitabisa/antlr4/runtime/Go/antlr"
-	"github.com/hyperjumptech/grule-rule-engine/antlr/parser/grulev3"
-	"github.com/hyperjumptech/grule-rule-engine/ast"
-	"github.com/hyperjumptech/grule-rule-engine/logger"
-	"github.com/hyperjumptech/grule-rule-engine/pkg"
+	"github.com/kitabisa/grule-rule-engine/antlr/parser/grulev3"
+	"github.com/kitabisa/grule-rule-engine/ast"
+	"github.com/kitabisa/grule-rule-engine/logger"
+	"github.com/kitabisa/grule-rule-engine/pkg"
 	"github.com/sirupsen/logrus"
 )
 

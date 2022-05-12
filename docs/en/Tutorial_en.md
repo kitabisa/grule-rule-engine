@@ -17,17 +17,17 @@ Please note that Grule is using Go 1.16.
 To import Grule into your project:
 
 ```Shell
-$ go get github.com/hyperjumptech/grule-rule-engine
+$ go get github.com/kitabisa/grule-rule-engine
 ```
 
 From your `go` you can import Grule.
 
 ```go
 import (
-	"github.com/hyperjumptech/grule-rule-engine/ast"
-	"github.com/hyperjumptech/grule-rule-engine/builder"
-	"github.com/hyperjumptech/grule-rule-engine/engine"
-	"github.com/hyperjumptech/grule-rule-engine/pkg"
+	"github.com/kitabisa/grule-rule-engine/ast"
+	"github.com/kitabisa/grule-rule-engine/builder"
+	"github.com/kitabisa/grule-rule-engine/engine"
+	"github.com/kitabisa/grule-rule-engine/pkg"
 ) 
 ``` 
 
@@ -279,7 +279,7 @@ if err != nil {
 ### From GIT
 
 ```go
-bundle := pkg.NewGITResourceBundle("https://github.com/hyperjumptech/grule-rule-engine.git", "/**/*.grl")
+bundle := pkg.NewGITResourceBundle("https://github.com/kitabisa/grule-rule-engine.git", "/**/*.grl")
 resources := bundle.MustLoad()
 for _, res := range resources {
     err := ruleBuilder.BuildRuleFromResource("TutorialRules", "0.0.1", res)
