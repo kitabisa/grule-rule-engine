@@ -3,7 +3,7 @@ module github.com/kitabisa/grule-rule-engine
 go 1.16
 
 require (
-	github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20210928164016-886d244c73ef
+	github.com/kitabisa/antlr4/runtime/Go/antlr v0.0.0-20220512072704-613139ec19f7
 	github.com/bmatcuk/doublestar v1.3.2
 	github.com/google/uuid v1.1.1
 	github.com/sirupsen/logrus v1.8.1
@@ -14,5 +14,3 @@ require (
 	gopkg.in/src-d/go-billy.v4 v4.3.2
 	gopkg.in/src-d/go-git.v4 v4.13.1
 )
-
-replace github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20210928164016-886d244c73ef => github.com/kitabisa/antlr4/runtime/Go/antlr v0.0.0-20220512040246-954b13c2079d
