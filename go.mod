@@ -3,9 +3,9 @@ module github.com/kitabisa/grule-rule-engine
 go 1.16
 
 require (
-	github.com/kitabisa/antlr4/runtime/Go/antlr v0.0.0-20220512072704-613139ec19f7
 	github.com/bmatcuk/doublestar v1.3.2
 	github.com/google/uuid v1.1.1
+	github.com/kitabisa/antlr4/runtime/Go/antlr v0.0.0-20220516163000-f013c9dc6a3c
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.6.1
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550 // indirect
